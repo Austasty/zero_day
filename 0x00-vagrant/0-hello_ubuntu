@@ -1,1 +1,2 @@
-print linux system information
+uname()
+print system information
